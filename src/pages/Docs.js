@@ -8,7 +8,7 @@ function Docs() {
         REACT MPESA INTERGRATION
       </p>
       <h4 className="text">
-        <em>BY DEV RIZWAN</em>
+        <em>BY DENNIS KAMAU</em>
       </h4>
       <p className="mt-3">
         LIPA NA M-PESA ONLINE API also know as M-PESA express (STK Push) is a
@@ -37,7 +37,7 @@ function Docs() {
         />
       </span>
       <p className="text fs-4 fw-normal">Need Help?</p>
-      <p className="text fs-5 fw-light">Reach Out: 0768793923</p>
+      <p className="text fs-5 fw-light">Reach Out: +254 754 118898</p>
     </div>
   );
 }
