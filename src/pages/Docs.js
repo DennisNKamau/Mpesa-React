@@ -13,7 +13,7 @@ function Docs() {
       <p className="mt-3">
         LIPA NA M-PESA ONLINE API also know as M-PESA express (STK Push) is a
         Merchant/Business initiated C2B (Customer to Business) Payment. I, Dev
-        Rizwan have gone through the unguided 🙄 Safaricom Daraja API docs to
+        Dennis have gone through the unguided 🙄 Safaricom Daraja API docs to
         finally be able to intergrate the LIPA NA M-PESA ONLINE API in as many
         languages & frameworks as posible, In this I have hereby intergrated the
         api to a REACTJS webapp directly from the clientside 😋. Feel free to
